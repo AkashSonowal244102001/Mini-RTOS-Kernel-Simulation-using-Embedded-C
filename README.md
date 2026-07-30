@@ -30,7 +30,7 @@ The kernel is designed using a modular architecture where each module has a clea
 # 🏗️ RTOS Architecture
 
 <p align="center">
-  <img src="docs/BlockDiagram.png" width="900" alt="Mini RTOS Architecture">
+  <img src="docs/images/BlockDiagram.png" width="900" alt="Mini RTOS Architecture">
 </p>
 
 ---
